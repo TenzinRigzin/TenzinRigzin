@@ -1,111 +1,71 @@
-<br>
-
 <div align="center">
-  <img width="33%" src="https://github.com/hak553/photoToProfile/blob/main/Programming%20Computer.svg" alt="Developer Laptop">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=180&section=header&text=Tenzin%20Rigzin&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Digital%20Forensics%20%7C%20Cybersecurity%20%7C%20Embedded%20Systems%20%7C%20Edge%20AI&descAlignY=58&descSize=16" alt="header" />
+
+<img src="./knight-cat.gif" width="230" alt="knight cat" />
+
+<sub>⚔️ <i>guarding my code since 2024</i> ⚔️</sub>
+
+### Hi there! I'm Tenzin Rigzin 👋
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=B.Tech+CSE+Student+%40+Christ+University;Exploring+Digital+Forensics+%26+Cybersecurity;Building+with+Embedded+Systems+%26+Edge+AI;Dual-university+with+Kyungpook+National+University" alt="Typing SVG" />
+</a>
+
+<br/><br/>
+
+<img height="170" src="https://streak-stats.demolab.com?user=TenzinRigzin&theme=midnight-purple&hide_border=false" alt="GitHub Streak" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TenzinRigzin&layout=compact&theme=midnight-purple" alt="Top Languages" />
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=c,cpp,py,js,html,css,react,flask,arduino,git,linux&perline=11" alt="Tech Stack" />
+
+<br/><br/>
+
+<details>
+<summary><b>More Info</b></summary>
+
+<br/>
+
+<div align="left">
+
+- 🎓 B.Tech CSE at **Christ University (Deemed to be University)**, Bengaluru, graduating **2028**
+- 🌏 Dual-university arrangement with **Kyungpook National University (KNU)**
+- 🔍 Focus: **Digital Forensics, Cybersecurity, Embedded Systems, Edge AI**
+- 🏔️ From Dharamsala
+
+### 🚀 Featured Projects
+
+| Project | Description |
+|---|---|
+| **MobiTrace Pro** | AI-powered Android mobile forensic investigation suite |
+| **CampusFlow** | Student productivity web app with an AI Study Buddy and Smart Deadline Manager |
+| **DataLens AI** | Local data-analysis app (Flask + React), a Julius AI alternative |
+| **CityLens Analytics** | YOLOv8-based public safety hazard detection |
+
 </div>
-
-<div align="center">
-  
-  <b>`プ ロ グ ラ マ`</b>
-  <samp>
-      <br>
-      Hi there! I'm <b>Kamilly Medino</b>
-  </samp>
-</div>
-
-<div align="center" width="100%">
-  
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=A020F0&width=900&size=22&center=true&lines=I+am+from+Brazil;I'm+a+student+of+Analysis+and+Systems+Development;I'm+also+a+Designer;Be+welcome!" alt="Typing SVG"/>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/kami_♡-black" />
-</div>
-      
-<br>
-
-<div align="center">
-  <a href="https://github.com/kamillyvm">
-    <img height="180" src="https://github-stats-extended.vercel.app/api?username=kamillyvm&rank_icon=github&theme=midnight-purple">
-    <img height="180" src="https://github-readme-stats-two-nu-4enfq389jr.vercel.app/api/top-langs/?username=kamillyvm&layout=compact&langs_count=8&theme=midnight-purple&count_private=true">
-  </a>
-</div>
-
-<br>
-      
-<div align="center">
-  
-</div>
-
-<div align="center" style="display: inline_block"><br>
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CPP.svg">
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg">
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg">
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg">
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Bootstrap.svg">
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg">
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Arduino.svg">
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg">
-  <br>
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg">
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Octave-Dark.svg">
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg">
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Figma-Dark.svg">
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Flutter-Dark.svg">
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Dart-Dark.svg">
-  
-</div>
-
-<br>
-<br>
-
-<details align="center">  
-  <summary>
-      <samp>
-        <b>More Info</b>
-      </samp>
-  </summary>
-  
-<br>
-
-##
-
-<br>
-
-<div align="center">
-  <samp>
-    <b>
-      Contact me:
-    </b>
-  </samp>
-  <br>
-  <br>
-
-  [![Gmail](https://img.shields.io/badge/Gmail-dd4b40?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:kamillymedino2@gmail.com)
-  [![Instagram](https://img.shields.io/badge/Instagram-ff3d7c?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/km.medino/?next=%2F)
-  [![Linkedin](https://img.shields.io/badge/LinkedIn-007ab9?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/kamilly-medino-b72a3b33a/)
-  
-</div>
-
-<div align="center">
-  <p align="center">
-      <samp>
-        ♡ <a href="https://beacons.ai/kamillymedino">beacons.ai</a> ♡
-      </samp>
-  </p>
-</div>
-<br>
 
 </details>
 
-##
+<br/>
 
-<br>
+---
 
-<div align="center">
-  <p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=kamillyvm&style=flat-square&color=9400D3" /></p> 
+<br/>
+
+**Contact me!**
+
+<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+<a href="https://instagram.com/YOUR_INSTAGRAM"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+
+<br/><br/>
+
+---
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=TenzinRigzin&label=Profile%20views&color=a855f7&style=flat" alt="Profile views" />
+
 </div>
-
-<br>
