@@ -32,7 +32,7 @@
 <img src="https://img.shields.io/badge/Kyungpook_National_University-Dual_Degree-0ea5e9?style=for-the-badge" alt="KNU" />
 <br/>
 <img src="https://img.shields.io/badge/Graduating-2028-a855f7?style=for-the-badge" alt="Graduating 2028" />
-<img src="https://img.shields.io/badge/From-Dharamsala-ec4899?style=for-the-badge" alt="In South Korea" />
+<img src="https://img.shields.io/badge/At-Daegu, South Korea-ec4899?style=for-the-badge" alt="In South Korea" />
 
 <br/><br/>
 
