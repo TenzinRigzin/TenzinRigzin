@@ -32,7 +32,7 @@
 <img src="https://img.shields.io/badge/Kyungpook_National_University-Dual_Degree-0ea5e9?style=for-the-badge" alt="KNU" />
 <br/>
 <img src="https://img.shields.io/badge/Graduating-2028-a855f7?style=for-the-badge" alt="Graduating 2028" />
-<img src="https://img.shields.io/badge/From-Dharamsala-ec4899?style=for-the-badge" alt="From Dharamsala" />
+<img src="https://img.shields.io/badge/From-Dharamsala-ec4899?style=for-the-badge" alt="In South Korea" />
 
 <br/><br/>
 
@@ -40,7 +40,7 @@
 
 <img src="https://img.shields.io/badge/Digital_Forensics-a855f7?style=flat-square" alt="Digital Forensics" />
 <img src="https://img.shields.io/badge/Cybersecurity-7c3aed?style=flat-square" alt="Cybersecurity" />
-<img src="https://img.shields.io/badge/Embedded_Systems-6366f1?style=flat-square" alt="Embedded Systems" />
+<img src="https://img.shields.io/badge/Computer_Vision-6366f1?style=flat-square" alt="Computer Vision" />
 <img src="https://img.shields.io/badge/Edge_AI-0ea5e9?style=flat-square" alt="Edge AI" />
 
 <br/><br/>
@@ -94,9 +94,9 @@
 
 **Contact me!**
 
-<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-<a href="https://instagram.com/YOUR_INSTAGRAM"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:trigzin2005kr@gmail.com"><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+<a href="https://www.instagram.com/tenzinrigzin19/?hl=en"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+<a href="https://www.linkedin.com/in/tenzinrigzin19/"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 
 <br/><br/>
 
