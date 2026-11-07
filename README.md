@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=180&section=header&text=Tenzin%20Rigzin&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Digital%20Forensics%20%7C%20Cybersecurity%20%7C%20Embedded%20Systems%20%7C%20Edge%20AI&descAlignY=58&descSize=16" alt="header" />
 
-<img src="./knight-cat.gif" width="230" alt="knight cat" />
+<img src="./knight-cat-cute-cat.gif" width="230" alt="knight cat" />
 
 <sub>⚔️ <i>guarding my code since 2024</i> ⚔️</sub>
 
