@@ -15,7 +15,7 @@ jobs:
       - name: Generate Koi
         uses: yalongwastaken/git-koi@main
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit and Push Koi GIF
         run: |
