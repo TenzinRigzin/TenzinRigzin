@@ -97,8 +97,9 @@
 <a href="mailto:trigzin2005kr@gmail.com"><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 <a href="https://www.instagram.com/tenzinrigzin19/?hl=en"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 <a href="https://www.linkedin.com/in/tenzinrigzin19/"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://leetcode.com/u/TenzinRigzin/"><img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
 
+<a href="https://leetcode.com/u/TenzinRigzin/"> <img src="https://leetcard.jacoblin.cool/TenzinRigzin?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" width="520" /> </a>
+<br/><br/>
 <br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=TenzinRigzin&label=Profile%20views&color=a855f7&style=flat" alt="Profile views" />
